@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson1_month6</string>
+    <string name="test">test</string>
+    <string name="random">RANDOM PHOTO</string>
+    <string name="submit">SUBMIT PHOTO</string>
+    <string name="ph_1">https://images.squarespace-cdn.com/content/v1/5bff02b05ffd200721540991/1606939398704-VA859IBFLHPWSUAAGAZY/black+background+horse+photography+how+to.jpg</string>
+    <string name="ph_2">https://t3.ftcdn.net/jpg/04/19/33/40/360_F_419334038_wB7cWfpK8LfBdkfQAxElLgg6JjVg3ZIq.jpg</string>
+    <string name="ph_3">https://masterfresok.ru/upload/iblock/5ab/osfve69m2nf6a29j772ypkr89vd2a1pv/fotooboi-loshad-v-tumane-foto.jpg</string>
+    <string name="ph_4">https://crosti.ru/patterns/00/1c/44/d5_picture_5cfc6144.jpg</string>
+    <string name="ph_5">https://masterfresok.ru/upload/iblock/88c/q4yre8ck2gp5xhol3zmyyuih7eqn0n4b/fotooboi-etyud-golovy-loshadi-foto.jpg</string>
+</resources>
